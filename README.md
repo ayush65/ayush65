@@ -1,23 +1,49 @@
-<h1 align="center">Hi 👋, I'm Ayush Prakash</h1>
-<h3 align="center">A passionate frontend developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush65&label=Profile%20views&color=0e75b6&style=flat" alt="ayush65" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush65" alt="ayush65" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ayushprakash__" target="blank"><img src="https://img.shields.io/twitter/follow/ayushprakash__?logo=twitter&style=for-the-badge" alt="ayushprakash__" /></a> </p>
-
-- 💬 Ask me about **react , Javascript**
-
-- 📫 How to reach me **payush381@gmail.com**
+<!--
 
 
+Here are some ideas to get you started:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- ⚡ Fun fact: ...
+-->
+![ezgif-2-](https://user-images.githubusercontent.com/54500608/184078587-10328f90-e44f-43ab-8146-7d619564cbdd.gif)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush65&show_icons=true&locale=en&layout=compact" alt="ayush65" /></p>
+<h1 align="center">
+Hey👋 I'm Ayush Prakash
+</h1>
+<h3 align="center">Languages & tools 🛠️</h3>
+<p align="center">
+<img alt="React" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<img alt="React" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img alt="React" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
+<img alt="React" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img alt="React" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img alt="React" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img alt="React" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="" alt="J" height="40">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</p>
+<h3 align="center">Stats 📈</h3>
+<div align="center">
+<img style="width:fit-content;" src="https://github-readme-stats.vercel.app/api?username=AnuragSahu11&theme=merko">
+<img style="width:fit-content;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragSahu11&layout=compact&theme=merko">
+</img>
+</div>
+<div align="center">
+</img>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush65&show_icons=true&locale=en" alt="ayush65" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush65&" alt="ayush65" /></p>
+
+
+
+
+
+
