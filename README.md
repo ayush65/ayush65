@@ -1,14 +1,13 @@
 ## Ayush Prakash
 
-### Full Stack Developer | Eager to Learn | Passionate about Technology
+### Full Stack Developer  | Passionate about Technology
 
 Welcome to my GitHub profile! I'm Ayush Prakash, a dedicated Full Stack Developer with a strong passion for technology and a constant desire to learn and grow. I love crafting innovative solutions and turning ideas into reality through code.
 
 **Skills:**
 - Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Express.js, Python, Django
+- Backend: Node.js, Express.js, firebase , Python, Django
 - Database: SQL, MongoDB
-- DevOps: Git, Docker, AWS
 
 Throughout my career, I have gained hands-on experience in developing robust and scalable web applications. I have a keen eye for detail and a knack for problem-solving, allowing me to create efficient and user-friendly solutions. I am comfortable working in both frontend and backend technologies, ensuring a holistic approach to development.
 
