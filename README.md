@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
@@ -58,16 +58,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ayushPrakash11&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushPrakash11&layout=compact&theme=tokyonight" height="160"/>
 </p>
-
----
-
-### 📌 Pinned Projects
-
-> *(Add your best repos below)*
-
-- [📂 Portfolio Website](https://github.com/ayushPrakash11/portfolio) — Built with React, animations, and modern UI
-- [⚡ URL Shortener](https://github.com/ayushPrakash11/url-shortener) — Node.js + MongoDB + JWT + API
-- [🛍️ E-commerce UI](https://github.com/ayushPrakash11/ecommerce-ui) — Clean frontend template with responsive design
 
 ---
 
