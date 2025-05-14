@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="40" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
@@ -33,6 +33,41 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </p>
+
+---
+
+### ⚙️ Currently Working On
+
+- 🔧 Building responsive UIs with **Next.js + Tailwind CSS**
+- 🧠 Exploring **AI-based APIs** for smarter UX
+- 🛠️ Improving **backend systems** with **Node.js + MongoDB**
+
+---
+
+### 🎯 2025 Goals
+
+- 📚 Contribute to open-source more actively
+- 🧪 Build and launch a side SaaS product
+- ✍️ Start technical blogging on Dev.to or Hashnode
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushPrakash11&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushPrakash11&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+### 📌 Pinned Projects
+
+> *(Add your best repos below)*
+
+- [📂 Portfolio Website](https://github.com/ayushPrakash11/portfolio) — Built with React, animations, and modern UI
+- [⚡ URL Shortener](https://github.com/ayushPrakash11/url-shortener) — Node.js + MongoDB + JWT + API
+- [🛍️ E-commerce UI](https://github.com/ayushPrakash11/ecommerce-ui) — Clean frontend template with responsive design
 
 ---
 
@@ -50,5 +85,5 @@
 ---
 
 <p align="center">
-  💬 I'm always open to new ideas, freelance projects, or simply geeking out over frontend frameworks. Drop me a message — let’s build something amazing together!
+  💬 I'm always open to exciting new collaborations, freelance work, or just chatting about code. Let’s build something awesome together!
 </p>
