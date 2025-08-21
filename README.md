@@ -43,20 +43,7 @@ I thrive in fast-paced environments, love tackling complex challenges, and conti
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushPrakash11&layout=compact&theme=transparent&hide_border=true" height="160"/>
 </p>
 
----
 
-### 🌟 Selected Projects  
-
-🔹 **[Project 1 – SaaS Dashboard](#)**  
-A full-stack SaaS analytics dashboard built with Next.js, Tailwind, and MongoDB.  
-
-🔹 **[Project 2 – AI-Powered Chatbot](#)**  
-Conversational assistant leveraging OpenAI API and Node.js backend.  
-
-🔹 **[Project 3 – Fitness Microsite](#)**  
-Community-driven fitness platform with gamification and progress tracking.  
-
----
 
 ### 🌐 Connect with Me  
 
