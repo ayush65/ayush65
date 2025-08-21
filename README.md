@@ -1,31 +1,29 @@
-<h1 align="center">👋 Hello, I'm <span style="color:#007acc;">Ayush Prakash</span></h1>
-
-<p align="center">🚀 Full-Stack Developer | UI Enthusiast | JavaScript Fanatic</p>
-
----
+<h1 align="center">Hi, I'm <span style="color:#007acc;">Ayush Prakash</span> 👨‍💻</h1>
 
 <p align="center">
-  Welcome to my GitHub! I'm a passionate full-stack developer who thrives at the intersection of elegant design and robust backend architecture. While I'm proficient across the full web stack, I’m especially enthusiastic about building seamless, accessible, and engaging frontend interfaces using modern JavaScript frameworks. 
-</p>
-
-<p align="center">
-  I specialize in <strong>React.js</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>, and love using tools like <strong>Tailwind CSS</strong> and <strong>Redux</strong> to bring ideas to life. Let’s collaborate and create digital experiences that truly stand out! 🌟
+  <strong>Full-Stack Developer | Frontend Specialist | JavaScript Enthusiast</strong>
 </p>
 
 ---
 
-### 🛠️ Tech Toolbox
+<p align="center">
+I am a full-stack developer passionate about building scalable web applications and intuitive user experiences.  
+With expertise in modern frontend frameworks and solid backend foundations, I enjoy turning complex problems into elegant, high-performance solutions.
+</p>
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="TailwindCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
@@ -36,23 +34,21 @@
 
 ---
 
-### ⚙️ Currently Working On
-
-- 🔧 Building responsive UIs with **Next.js + Tailwind CSS**
-- 🧠 Exploring **AI-based APIs** for smarter UX
-- 🛠️ Improving **backend systems** with **Node.js + MongoDB**
-
----
-
-### 🎯 2025 Goals
-
-- 📚 Contribute to open-source more actively
-- 🧪 Build and launch a side SaaS product
-- ✍️ Start technical blogging on Dev.to or Hashnode
+### ⚙️ What I'm Working On
+- Designing and developing responsive UIs with **Next.js & Tailwind CSS**  
+- Integrating **AI-powered APIs** to enhance user experience  
+- Strengthening backend services with **Node.js, Express & MongoDB**
 
 ---
 
-### 📈 GitHub Stats
+### 🎯 Goals for 2025
+- Actively contribute to **open-source projects**  
+- Build and launch a **SaaS product**  
+- Share knowledge through **technical writing & blogging**
+
+---
+
+### 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayushPrakash11&show_icons=true&theme=tokyonight" height="160" />
@@ -61,19 +57,19 @@
 
 ---
 
-### 🌐 Connect & Collaborate
+### 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush-prakash-6658b11b5/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
   <a href="https://twitter.com/ayushPrakash__" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  💬 I'm always open to exciting new collaborations, freelance work, or just chatting about code. Let’s build something awesome together!
+💡 Open to collaborations, freelance opportunities, and building impactful digital products.  
 </p>
